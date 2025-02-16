@@ -1,0 +1,16 @@
+[OPTIONS]
+CONTENTS=6O12V7
+COPYRIGHT=© 1992-2003 Sybase, Inc. %date
+LCID=0x409 0x0 0x0
+COMPRESS=0
+
+[WINDOWS]
+main="PFC Tutorial",(179,225,705,651),28676,,(255,255,224)
+(w95sec)="PFC Tutorial",,29444,,(255,255,224),f2
+
+[CONFIG]
+BrowseButtons()
+
+[FILES]
+PFCTUTOR.RTF
+
