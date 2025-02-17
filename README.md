@@ -1,0 +1,1 @@
+Help file for the PFC Tutorial application.  This repository contains the source code.  The help file in CHM or PDF format can be downloaded directly from the [Release link](https://github.com/OpenSourcePFCLibraries/PFCTUTOR-help-file-and-source/releases/tag/1.0).
